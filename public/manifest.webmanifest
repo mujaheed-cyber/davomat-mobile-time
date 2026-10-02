@@ -1,0 +1,10 @@
+{
+  "name": "Davomat",
+  "short_name": "Davomat",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F2037",
+  "theme_color": "#1F2037",
+  "icons": []
+}

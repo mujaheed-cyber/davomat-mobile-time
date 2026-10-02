@@ -1,0 +1,37 @@
+{
+  "branches": [
+    {
+      "id": "b1",
+      "name": "Alfraganus filiali",
+      "lat": 41.2995,
+      "lng": 69.2401,
+      "radiusM": 80,
+      "maxAccuracyM": 40,
+      "opensAt": "10:00",
+      "closesAt": "22:00",
+      "graceMin": 10,
+      "overtimeAfterMin": 30
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Admin",
+      "phone": "+998900000001",
+      "role": "admin",
+      "branchId": "b1",
+      "passwordHash": "$2a$10$0km17X6Yo7wyGHPji8M99eriN53Oy3No7H8lTKLrR8bbgk2PSbIu2",
+      "faceTemplate": null
+    },
+    {
+      "id": "u2",
+      "name": "Aziz",
+      "phone": "+998900000002",
+      "role": "employee",
+      "branchId": "b1",
+      "passwordHash": "$2a$10$.8tY9jpyYv3CUTBwgtCVyuYwEOb.axMAGkqbfY9qzbq/EUHgJCrsS",
+      "faceTemplate": null
+    }
+  ],
+  "records": []
+}
